@@ -1,0 +1,6 @@
+D:\Archivos\ACME\SalaryCalculator\SalaryCalculator\bin\Release\SalaryCalculator.exe.config
+D:\Archivos\ACME\SalaryCalculator\SalaryCalculator\bin\Release\SalaryCalculator.exe
+D:\Archivos\ACME\SalaryCalculator\SalaryCalculator\bin\Release\SalaryCalculator.pdb
+D:\Archivos\ACME\SalaryCalculator\SalaryCalculator\obj\Release\SalaryCalculator.csprojResolveAssemblyReference.cache
+D:\Archivos\ACME\SalaryCalculator\SalaryCalculator\obj\Release\SalaryCalculator.exe
+D:\Archivos\ACME\SalaryCalculator\SalaryCalculator\obj\Release\SalaryCalculator.pdb

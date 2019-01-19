@@ -1,0 +1,6 @@
+D:\Archivos\ACME\SalaryCalculator\UnitTestSalaryCalculator\bin\Debug\UnitTestSalaryCalculator.dll
+D:\Archivos\ACME\SalaryCalculator\UnitTestSalaryCalculator\bin\Debug\UnitTestSalaryCalculator.pdb
+D:\Archivos\ACME\SalaryCalculator\UnitTestSalaryCalculator\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Archivos\ACME\SalaryCalculator\UnitTestSalaryCalculator\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Archivos\ACME\SalaryCalculator\UnitTestSalaryCalculator\obj\Debug\UnitTestSalaryCalculator.dll
+D:\Archivos\ACME\SalaryCalculator\UnitTestSalaryCalculator\obj\Debug\UnitTestSalaryCalculator.pdb
