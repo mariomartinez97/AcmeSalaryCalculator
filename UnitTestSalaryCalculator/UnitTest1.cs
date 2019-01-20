@@ -8,7 +8,7 @@ namespace UnitTestSalaryCalculator
     [TestClass]
     public class UnitTest1
     {
-        LaunchProcesses launchProcesses = new LaunchProcesses();
+        readonly LaunchProcesses launchProcesses = new LaunchProcesses();
 
         [TestMethod]
         //Test if there is one nonexistent path
@@ -28,7 +28,7 @@ namespace UnitTestSalaryCalculator
         }
 
         [TestMethod]
-        //Test if both paths are nonexistent 
+        //Test with the data provided for this excercise
         public void Data_Provided()
         {
             launchProcesses.OpenFiles(@"..\\TestFiles\SampleProvied.txt", @"..\\TestFiles\SalaryTable.txt");
@@ -39,6 +39,7 @@ namespace UnitTestSalaryCalculator
         }
 
         [TestMethod]
+        //Test with the max amount of data mention for this exercise
         public void Max_Set_Data()
         {
             launchProcesses.OpenFiles(@"..\\TestFiles\MaxSetData.txt", @"..\\TestFiles\SalaryTable.txt");
@@ -53,6 +54,7 @@ namespace UnitTestSalaryCalculator
         }
 
         [TestMethod]
+        //Test if the hours worked are in different pay ranges
         public void Two_Different_Pay_Ranges()
         {
             launchProcesses.OpenFiles(@"..\\TestFiles\TwoPayRanges.txt", @"..\\TestFiles\SalaryTable.txt");
@@ -65,6 +67,7 @@ namespace UnitTestSalaryCalculator
         }
 
         [TestMethod]
+        //Test if the hours worked are in different pay ranges
         public void Three_Different_Pay_Ranges()
         {
             launchProcesses.OpenFiles(@"..\\TestFiles\ThreePayRanges.txt", @"..\\TestFiles\SalaryTable.txt");
