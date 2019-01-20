@@ -19,11 +19,11 @@ namespace SalaryCalculator
         private  void GetCalculationsPerformed(List<Employee> empList, List<PayRate> payRatesList)
         {
             Calculation calculation = new Calculation();
-            if (empList != null || payRatesList != null)
+            if (empList != null || payRatesList != null) //If there was an error while reading the files lists will be null so it doesnt require any further processing
             {
                 empList = calculation.GetSalaryForEmployer(empList, payRatesList);
-                returEmployeesList = empList;
-                WriteSalaryToConsole(empList);
+                returEmployeesList = empList; // this returnEmployeesList will help us in case in a future we want to access in other place to the final list and for unit testing
+                WriteSalaryToConsole(empList); //Print the results of the calculations to the screen
             }
         }
 

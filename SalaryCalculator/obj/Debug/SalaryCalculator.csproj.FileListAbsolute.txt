@@ -1,0 +1,12 @@
+D:\Archivos\ACME\SalaryCalculator\SalaryCalculator\bin\Debug\SalaryCalculator.exe.config
+D:\Archivos\ACME\SalaryCalculator\SalaryCalculator\bin\Debug\SalaryCalculator.exe
+D:\Archivos\ACME\SalaryCalculator\SalaryCalculator\bin\Debug\SalaryCalculator.pdb
+D:\Archivos\ACME\SalaryCalculator\SalaryCalculator\obj\Debug\SalaryCalculator.csprojResolveAssemblyReference.cache
+D:\Archivos\ACME\SalaryCalculator\SalaryCalculator\obj\Debug\SalaryCalculator.exe
+D:\Archivos\ACME\SalaryCalculator\SalaryCalculator\obj\Debug\SalaryCalculator.pdb
+D:\Archivos\ACME\AcmeSalaryCalculator\SalaryCalculator\bin\Debug\SalaryCalculator.exe.config
+D:\Archivos\ACME\AcmeSalaryCalculator\SalaryCalculator\obj\Debug\SalaryCalculator.exe
+D:\Archivos\ACME\AcmeSalaryCalculator\SalaryCalculator\obj\Debug\SalaryCalculator.pdb
+D:\Archivos\ACME\AcmeSalaryCalculator\SalaryCalculator\bin\Debug\SalaryCalculator.exe
+D:\Archivos\ACME\AcmeSalaryCalculator\SalaryCalculator\bin\Debug\SalaryCalculator.pdb
+D:\Archivos\ACME\AcmeSalaryCalculator\SalaryCalculator\obj\Debug\SalaryCalculator.csprojResolveAssemblyReference.cache
