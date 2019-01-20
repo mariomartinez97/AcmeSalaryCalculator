@@ -46,6 +46,7 @@
     <Compile Include="Calculation.cs" />
     <Compile Include="Employee.cs" />
     <Compile Include="IReadFile.cs" />
+    <Compile Include="LaunchProcesses.cs" />
     <Compile Include="ReadFile.cs" />
     <Compile Include="SalaryCalc.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

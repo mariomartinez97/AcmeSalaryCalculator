@@ -19,7 +19,6 @@ namespace SalaryCalculator
         PayRate payRate = new PayRate();
         DayInfo dayInfo = new DayInfo();
         readonly List<PayRate> payRatesList = new List<PayRate>();
-        //private System.IO.StreamReader file;
 
         private List<PayRate> GetPaymentRatesDetails(StreamReader file)
         {            

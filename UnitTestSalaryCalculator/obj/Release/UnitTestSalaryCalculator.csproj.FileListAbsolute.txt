@@ -1,0 +1,9 @@
+D:\Archivos\ACME\AcmeSalaryCalculator\UnitTestSalaryCalculator\bin\Release\UnitTestSalaryCalculator.dll
+D:\Archivos\ACME\AcmeSalaryCalculator\UnitTestSalaryCalculator\bin\Release\UnitTestSalaryCalculator.pdb
+D:\Archivos\ACME\AcmeSalaryCalculator\UnitTestSalaryCalculator\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Archivos\ACME\AcmeSalaryCalculator\UnitTestSalaryCalculator\bin\Release\SalaryCalculator.exe
+D:\Archivos\ACME\AcmeSalaryCalculator\UnitTestSalaryCalculator\bin\Release\SalaryCalculator.pdb
+D:\Archivos\ACME\AcmeSalaryCalculator\UnitTestSalaryCalculator\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Archivos\ACME\AcmeSalaryCalculator\UnitTestSalaryCalculator\obj\Release\UnitTestSalaryCalculator.csprojResolveAssemblyReference.cache
+D:\Archivos\ACME\AcmeSalaryCalculator\UnitTestSalaryCalculator\obj\Release\UnitTestSalaryCalculator.dll
+D:\Archivos\ACME\AcmeSalaryCalculator\UnitTestSalaryCalculator\obj\Release\UnitTestSalaryCalculator.pdb

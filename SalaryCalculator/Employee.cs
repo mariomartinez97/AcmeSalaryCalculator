@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace SalaryCalculator
 {
-    class Employee
+    public class Employee
     {
         public Employee()
         {
