@@ -17,8 +17,8 @@ namespace SalaryCalculator
             Console.WriteLine("For the salary calculation please press enter:");
             Console.ReadLine();
 
-            string employeePath = @"..\\InputFiles\EmployeeWorkHours.txt";
-            string salaryTablePath = @"..\\InputFiles\SalaryTable.txt";
+            string employeePath = @"..\\SalaryCalculator\bin\InputFiles\EmployeeWorkHours.txt";
+            string salaryTablePath = @"..\\SalaryCalculator\bin\InputFiles\SalaryTable.txt";
 
             LaunchProcesses launchProcesses = new LaunchProcesses();
 

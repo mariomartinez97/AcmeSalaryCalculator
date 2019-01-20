@@ -9,3 +9,4 @@ D:\Archivos\ACME\AcmeSalaryCalculator\SalaryCalculator\bin\Release\SalaryCalcula
 D:\Archivos\ACME\AcmeSalaryCalculator\SalaryCalculator\bin\Release\SalaryCalculator.pdb
 D:\Archivos\ACME\AcmeSalaryCalculator\SalaryCalculator\obj\Release\SalaryCalculator.exe
 D:\Archivos\ACME\AcmeSalaryCalculator\SalaryCalculator\obj\Release\SalaryCalculator.pdb
+D:\Archivos\ACME\AcmeSalaryCalculator\SalaryCalculator\obj\Release\SalaryCalculator.csprojResolveAssemblyReference.cache
